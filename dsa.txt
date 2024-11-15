@@ -1,0 +1,10 @@
+What is a stack?|A data structure|A storage system|A collection|A data structure
+What does DSA stand for?|Data Structures and Algorithms|Data Sets Analysis|Data Science Algorithms|Data Structures and Algorithms
+What is the time complexity of binary search?|O(log n)|O(n)|O(n log n)|O(log n)
+Which data structure uses FIFO order?|Queue|Stack|Array|Queue
+What is a tree?|A hierarchical data structure|A linear data structure|A graphical representation|A hierarchical data structure
+What is a linked list?|A sequence of nodes|A fixed-size array|A recursive structure|A sequence of nodes
+Which algorithm is used for finding shortest paths in a graph?|Dijkstra's algorithm|DFS|BFS|Dijkstra's algorithm
+What is a hash table?|A data structure that maps keys to values|A sorting algorithm|A linear data structure|A data structure that maps keys to values
+Which sorting algorithm is known as in-place sorting?|Quick sort|Merge sort|Heap sort|Quick sort
+What is the maximum number of children a binary tree node can have?|2|3|4|2

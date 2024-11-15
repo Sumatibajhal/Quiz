@@ -1,0 +1,10 @@
+What does SQL stand for?|Structured Query Language|Sequential Query Language|Simple Query Language|Structured Query Language
+Which command is used to remove a table from a database?|DROP|DELETE|REMOVE|DROP
+What is a primary key?|A unique identifier for records|A secondary identifier|A composite key|A unique identifier for records
+Which SQL statement is used to extract data from a database?|SELECT|EXTRACT|GET|SELECT
+What does ACID stand for in DBMS?|Atomicity, Consistency, Isolation, Durability|Access, Control, Integration, Data|Automatic, Consistent, In-depth, Data|Atomicity, Consistency, Isolation, Durability
+Which type of join returns all rows from the left table and matching rows from the right table?|LEFT JOIN|INNER JOIN|OUTER JOIN|LEFT JOIN
+What is normalization?|Process of organizing data|Process of de-normalizing data|Data backup process|Process of organizing data
+What is a foreign key?|A key used to link two tables|A key outside the primary table|A key used for security|A key used to link two tables
+Which SQL function is used to count the number of rows?|COUNT|SUM|NUMBER|COUNT
+What is a view in SQL?|A virtual table|A physical table|An index|A virtual table

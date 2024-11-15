@@ -1,0 +1,10 @@
+What is the output of print(type([]))?|<class 'list'>|<type 'list'>|<class 'array'>|<class 'list'>
+Which keyword is used to define a function in Python?|def|function|func|def
+What is the output of print(2 ** 3)?|8|6|9|8
+Which data type is immutable in Python?|Tuple|List|Dictionary|Tuple
+What does the 'self' keyword in a class method refer to?|The instance of the class|The class itself|A variable|The instance of the class
+How do you create a virtual environment in Python?|python -m venv env|python venv create|python env create|python -m venv env
+Which module in Python is used to handle JSON data?|json|xml|csv|json
+What is the output of print(3 % 2)?|1|0|2|1
+How do you convert a string to a float in Python?|float()|str()|int()|float()
+What is PEP 8?|Python style guide|Python exception handling|Python module|Python style guide
