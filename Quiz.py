@@ -1,5 +1,4 @@
 import random
-import os
 
 def registration():
     name = input("Enter your name: ")
